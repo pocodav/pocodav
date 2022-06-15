@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pocodav
 - 👀 I’m interested in archives, libraries, public history, minimal computing, decoloniality
 - 🌱 I’m currently learning EVERYTHING, specifically... python
-- 💞️ I’m looking to collaborate on community engaged archiving, accesibility, pedgagogy
+- 💞️ I’m looking to collaborate on community engaged archiving, accessibility, pedagogy
 - 📫 How to reach me dms
 
 <!---
